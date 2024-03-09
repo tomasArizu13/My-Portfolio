@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    background-color: #363121;
+    background-color: #0f100e;
     color: lightgray;
 }
 a{
@@ -21,16 +21,4 @@ a{
 section{
     height: 100vh;
     scroll-snap-align: center;
-}
-.course{
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    .box{
-        width: 200px;
-        height: 200px;
-        background-color: white;
-    }
 }
